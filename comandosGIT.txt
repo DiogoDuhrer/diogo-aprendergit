@@ -1,0 +1,11 @@
+git e github
+
+* git init (cria um arquivo git oculto na pasta que vc esta trabalhando)
+
+* git status (mostra quais arquivos foram incluidos, quais ainda não forma incluidos ou se algum foi atualizado)
+
+* git add "nome do arquivo"(adiciona um arquivo ao controle de versão)
+
+* git status novamente para verificar se o git add foi adicionado com sucesso
+
+* git add . (adiciona todos os arquivos simultaneamente ao controle de versao)
